@@ -1,4 +1,4 @@
-# HerShield - Women Safety App 🛡️
+# HerShield - Your AI-Powered Guardian for Women's Safety 🛡️
 
 A Streamlit-based web application for women's safety featuring geolocation mapping, emergency SMS alerts, AI assistance, and resource guidance.
 
